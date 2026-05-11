@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌱 Sobre mí 
 
 <!--
 **DenisseAquino/DenisseAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
