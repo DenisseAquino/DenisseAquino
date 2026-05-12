@@ -80,19 +80,18 @@ Crear una aplicación móvil que ayude a los usuarios a entender en qué gastan 
 
 | Arquitectura de la información | User Flow |
 |-------------------------------|-----------|
+| ![Arquitectura](arquitectura%20-%20información.jpg) | ![User Flow](User%20-%20Flow.jpg) |
 
+**Wireframes**
 
-### Wireframes
+| Baja fidelidad | Media fidelidad | Alta fidelidad |
+|---------------|----------------|----------------|
+| ![Wireframe BF](Wireframe%20-%20BF.jpg) | ![Wireframe MF](Wireframe%20-%20MF.jpg) | ![Wireframe AF](Wireframe%20-%20AF.jpg) |
 
----
+**Pantallas finales**
 
+| Home | Metas de ahorro |
+|------|----------------|
+| ![Home](Home.png) | ![Metas](Ahorro%20-%20metas.png) |
 
-
-### Pantallas finales
-
-| Dashboard | Metas de ahorro |
-|-----------|----------------|
-| ![Dashboard](dashboard.png) | ![Metas](metas-ahorro.png) |
-
-📊 [Ver caso de estudio completo](https://www.figma.com/deck/nEKuBgUSEuYwIUx5YUtyCu)  
-📱 [Ver prototipo navegable](https://www.figma.com/design/uoPKmCYMJrpdZbCpaQuNNH/Prototipo--S14?node-id=69-1777&t=et0cdHTHDJKcAa8b-1)
+📊 [Ver caso de estudio completo](https://www.figma.com/deck/nEKuBgUSEuYwIUx5YUtyCu)
